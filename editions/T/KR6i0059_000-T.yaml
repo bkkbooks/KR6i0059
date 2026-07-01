@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0059/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文殊師利問菩薩署經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0458.xml
+    old_id: T14n0458
+hash: sha256:1c36e3009f5ccd27de0f8d4d76d6bbf8135f4166cd44187f58311c0f54bc3529
