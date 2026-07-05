@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0059_000.yaml, hash: 'sha256:1c36e3009f5ccd27de0f8d4d76d6bbf8135f4166cd44187f58311c0f54bc3529'}
-  - {seq: 1, filename: KR6i0059_001.yaml, hash: 'sha256:c092cdabbbaf90b390de20ab74160fe4d0e7476f6c7084160a3541623858799d'}
+  - {seq: 1, filename: KR6i0059_001.yaml, hash: 'sha256:11f63f9cf4e6ef3c9d9f8477f21d29885121b429a229019eddd152b7fbea9f99'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0059_001.markers.yaml, hash: 'sha256:a1fc0dd63f41c2712972ed028a8c7b027dd18c285034ca9674a5dd58efb9ba7b'}
+  - {seq: 0, role: markers, filename: assets/KR6i0059_000.markers.yaml, hash: 'sha256:4b39ba612849f4d12a1fb15d86e1950eb5d41816bad68db06d897b9d887ef98b'}
+  - {seq: 1, role: markers, filename: assets/KR6i0059_001.markers.yaml, hash: 'sha256:bb88c2ec2d5774eb9b507024e6c1d3d16b80a06de16a61c7c3c23216abcf2b11'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 文殊師利問菩薩署經
   type: juan
   level: 1
-hash: sha256:6336cd7b3e5796e4f939aca6e36bc1d0887d8f0d1e1a4579137f1c73362a3fb2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d59740f854206966e0bbd9797278e6f1ca61063a59eb98b57e50f4ea019346c0
