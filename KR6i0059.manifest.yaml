@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0059/v1
 canonical_location: https://kanripo.org/bkk/KR6i0059/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 文殊師利問菩薩署經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0059_000.yaml, hash: 'sha256:1c36e3009f5ccd27de0f8d4d76d6bbf8135f4166cd44187f58311c0f54bc3529'}
-  - {seq: 1, filename: KR6i0059_001.yaml, hash: 'sha256:11f63f9cf4e6ef3c9d9f8477f21d29885121b429a229019eddd152b7fbea9f99'}
+  - {seq: 1, filename: KR6i0059_001.yaml, hash: 'sha256:e5b1b184815466013a5cce0332594792ae9d13d2378057c507f826590192f6d5'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0059_000.markers.yaml, hash: 'sha256:4b39ba612849f4d12a1fb15d86e1950eb5d41816bad68db06d897b9d887ef98b'}
-  - {seq: 1, role: markers, filename: assets/KR6i0059_001.markers.yaml, hash: 'sha256:bb88c2ec2d5774eb9b507024e6c1d3d16b80a06de16a61c7c3c23216abcf2b11'}
+  - {seq: 1, role: markers, filename: assets/KR6i0059_001.markers.yaml, hash: 'sha256:f3feec90102bb5442cb39cc252aaa8452d47a551704a2bc5fa906c6786dc5051'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 文殊師利問菩薩署經
   type: juan
   level: 1
-hash: sha256:d59740f854206966e0bbd9797278e6f1ca61063a59eb98b57e50f4ea019346c0
+hash: sha256:dd2cea3db5b4b0e8691bd6f132f101ec59d35881b32b0563c99ac855e9ad76b1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
